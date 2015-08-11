@@ -1,0 +1,1 @@
+A multiple com port syncronous data logger for linux, arduino, analog to digital conversion and key presses in C output to .csv & a database.
